@@ -1,4 +1,4 @@
-# 🎗️ Exercício 3 - Componente Campanha com CSS Modularizado
+#🎗️ Exercício 3 - Componente Campanha com CSS Modularizado
 Este exercício tem como objetivo a criação de um componente React chamado `Campanha`, utilizando **CSS Modules** para aplicar estilos condicionais de acordo com o mês informado.
 
 ---
